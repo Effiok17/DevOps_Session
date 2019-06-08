@@ -64,6 +64,8 @@
         <fileset file="${pa.name}/target/${pa.name}.war"/>
     </copy>
 </target>
-
+<target_2> 
+	hhhjj9
+</target>
 
 </project>
